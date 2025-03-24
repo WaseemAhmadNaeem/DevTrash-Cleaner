@@ -1,4 +1,4 @@
-# DevTrash Cleaner - Open Source GitHub Project
+# DevTrash Cleaner
 
 ## Introduction
 
